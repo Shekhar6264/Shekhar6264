@@ -28,7 +28,7 @@ name: Jamalpuri Shekhar
 role: Full Stack Developer | ML/AI Enthusiast
 education: CSE @ CBIT Hyderabad | CGPA 9.14
 achievements:
-  - 500+ LeetCode Problems (Top 4.2%)
+  - 650+ LeetCode Problems 
   - Internship Experience @ Infosys
   - Production MERN + ML Projects
 mission: "Merge creativity + logic to build futuristic apps"
