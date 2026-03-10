@@ -98,7 +98,7 @@ mission: "Merge creativity + logic to build futuristic apps"
 <a href="mailto:shekharjamalpuri18@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=FF0080" />
 </a>
-<a href="https://linkedin.com/in/shekar-jamalpuri-905b20289">
+<a href="https://linkedin.com/in/jamalpuri-shekar">
   <img src="https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
 </a>
 <a href="https://github.com/Shekhar6264">
