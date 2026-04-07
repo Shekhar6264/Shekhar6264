@@ -25,10 +25,10 @@
 
 ```yaml
 name: Jamalpuri Shekhar
-role: Full Stack Developer | ML/AI Enthusiast
-education: CSE @ CBIT Hyderabad | CGPA 9.14
+role: Full Stack Developer | AIML Engineer
+education: CSE @ CBIT Hyderabad | CGPA 9.15
 achievements:
-  - 650+ LeetCode Problems 
+  - 700+ LeetCode Problems 
   - Internship Experience @ Infosys
   - Production MERN + ML Projects
 mission: "Merge creativity + logic to build futuristic apps"
