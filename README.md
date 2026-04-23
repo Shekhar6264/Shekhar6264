@@ -56,11 +56,30 @@ mission: "Merge creativity + logic to build futuristic apps"
 
 ## 🚀 Highlight Projects
 
-* 🍅 **Tomato – Food Delivery App** (MERN + Stripe + OTP)
-* 🎓 **Student Management System (MERN)** — CRUD + Auth
-* 🏠 **House Price Prediction (ML)** — R² = 0.91
-* 🌱 **Fertilizer Recommender** — Smart Agri-tool with Bootstrap
+* 🍅 **Tomato – Food Delivery App (MERN + Stripe + OTP)**  
+  → Full-stack production app with **JWT Auth, Email OTP Verification, Stripe Payments**  
+  → Persistent cart, promo codes, and real-time order tracking  
+  → CI/CD deployment ensuring scalability and reliability  
 
+* 💳 **Credit Card Fraud Detection (Flask + ML + MongoDB)**  
+  → Real-time fraud detection web app using **Isolation Forest, SVC, Logistic Regression**  
+  → Tackled **highly imbalanced dataset problem** (critical in fraud systems)  
+  → Focused on **Precision & Recall optimization** for real-world accuracy  
+  → Secure backend with validation + clean UI for predictions  
+
+* 🌧️ **Rainfall Prediction System (ML)**  
+  → Built using **Random Forest Algorithm** for weather forecasting  
+  → Performed data cleaning, preprocessing & climate trend analysis  
+  → Visualized patterns using historical environmental data  
+
+* 🛒 **E-Commerce Product Registration System**  
+  → Node.js + MongoDB backend with dynamic product handling  
+  → Image URL support + responsive UI  
+
+* 🏠 **House Price Prediction (ML Project)**  
+  → Linear Regression model with **R² ≈ 0.91**  
+  → Integrated ML model with frontend for predictions  
+ 
 ---
 
 ## 📊 Stats Dashboard
@@ -82,7 +101,7 @@ mission: "Merge creativity + logic to build futuristic apps"
 - 🚀 Contributed to Open Source  
 - 🌟 Built 10+ Projects  
 - 📚 Continuous Learner  
-- 💻 Solved 500+ Coding Problems  
+- 💻 Solved 700+ Coding Problems  
 - 🏆 Active GitHub Contributor  
 
 
