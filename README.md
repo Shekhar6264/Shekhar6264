@@ -28,7 +28,7 @@ name: Jamalpuri Shekhar
 role: Full Stack Developer | AIML Engineer
 education: CSE @ CBIT Hyderabad | CGPA 9.15
 achievements:
-  - 700+ LeetCode Problems 
+  - 780+ LeetCode Problems 
   - Internship Experience @ Infosys
   - Production MERN + ML Projects
 mission: "Merge creativity + logic to build futuristic apps"
@@ -55,6 +55,11 @@ mission: "Merge creativity + logic to build futuristic apps"
 ---
 
 ## 🚀 Highlight Projects
+* 🚨 Smart Theft Detection System (Deep Learning + Computer Vision)
+  → Real-time theft detection using CCTV/video surveillance feeds
+  → Built with Deep Learning and Computer Vision techniques
+  → Detects suspicious activities and generates instant alerts
+  → Designed to improve security monitoring and incident response
 
 * 🍅 **Tomato – Food Delivery App (MERN + Stripe + OTP)**  
   → Full-stack production app with **JWT Auth, Email OTP Verification, Stripe Payments**  
@@ -67,18 +72,9 @@ mission: "Merge creativity + logic to build futuristic apps"
   → Focused on **Precision & Recall optimization** for real-world accuracy  
   → Secure backend with validation + clean UI for predictions  
 
-* 🌧️ **Rainfall Prediction System (ML)**  
-  → Built using **Random Forest Algorithm** for weather forecasting  
-  → Performed data cleaning, preprocessing & climate trend analysis  
-  → Visualized patterns using historical environmental data  
-
 * 🛒 **E-Commerce Product Registration System**  
   → Node.js + MongoDB backend with dynamic product handling  
   → Image URL support + responsive UI  
-
-* 🏠 **House Price Prediction (ML Project)**  
-  → Linear Regression model with **R² ≈ 0.91**  
-  → Integrated ML model with frontend for predictions  
  
 ---
 
@@ -101,7 +97,7 @@ mission: "Merge creativity + logic to build futuristic apps"
 - 🚀 Contributed to Open Source  
 - 🌟 Built 10+ Projects  
 - 📚 Continuous Learner  
-- 💻 Solved 700+ Coding Problems  
+- 💻 Solved 780+ Coding Problems  
 - 🏆 Active GitHub Contributor  
 
 
