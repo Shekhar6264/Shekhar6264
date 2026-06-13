@@ -28,7 +28,7 @@ name: Jamalpuri Shekhar
 role: Full Stack Developer | AIML Engineer
 education: CSE @ CBIT Hyderabad | CGPA 9.15
 achievements:
-  - 780+ LeetCode Problems 
+  - 800+ LeetCode Problems 
   - Internship Experience @ Infosys
   - Production MERN + ML Projects
 mission: "Merge creativity + logic to build futuristic apps"
@@ -95,9 +95,9 @@ mission: "Merge creativity + logic to build futuristic apps"
 ## ✨ Achievements
 
 - 🚀 Contributed to Open Source  
-- 🌟 Built 10+ Projects  
+- 🌟 Built 20+ Projects  
 - 📚 Continuous Learner  
-- 💻 Solved 780+ Coding Problems  
+- 💻 Solved 800+ Coding Problems  
 - 🏆 Active GitHub Contributor  
 
 
